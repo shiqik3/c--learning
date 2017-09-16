@@ -144,11 +144,14 @@
     <ClCompile Include="fivechess.h" />
     <ClCompile Include="maze.h" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="源.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BinaryTree.h" />
     <ClInclude Include="HasPtr.h" />
     <ClInclude Include="MyString.h" />
     <ClInclude Include="Pointer.h" />
+    <ClInclude Include="QiuSuShu.h" />
     <ClInclude Include="saoleimi.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
